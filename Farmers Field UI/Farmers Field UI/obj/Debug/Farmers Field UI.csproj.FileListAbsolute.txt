@@ -1,0 +1,959 @@
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\MV\source\repos\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\MV\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\Rabelani\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\MV\Downloads\Farmers Field_01\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\Rabelani\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\MV\Documents\Farmers Field (1)\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\General\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\General\Downloads\Farmers Field\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CoreCompileInputs.cache
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+C:\Users\MV\Desktop\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll.config
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Farmers Field UI.pdb
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.exe.config
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csc.rsp
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.exe.config
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\csi.rsp
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.AppContext.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Collections.Immutable.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Console.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Compression.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.IO.Pipes.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.AccessControl.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Claims.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.ValueTuple.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.exe.config
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\vbc.rsp
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\roslyn\VBCSCompiler.exe.config
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.Web.Infrastructure.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\WebGrease.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Helpers.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Mvc.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Optimization.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.Razor.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Deployment.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Web.WebPages.Razor.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Newtonsoft.Json.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Antlr3.Runtime.pdb
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csprojAssemblyReference.cache
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.csproj.CopyComplete
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.dll
+D:\uj\Farmers Field\Farmers Field\Farmers Field UI\Farmers Field UI\obj\Debug\Farmers Field UI.pdb
